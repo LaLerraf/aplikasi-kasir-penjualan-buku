@@ -1,2 +1,1 @@
-# aplikasi-kasir-penjualan-buku
-masih project berjalan
+# Java-NetBeans-TokoBuku
